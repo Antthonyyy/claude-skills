@@ -1,5 +1,9 @@
 # Product/Service Launch Playbook Generator
 
+> **Описание:** Понедельный плейбук запуска продукта/услуги/фичи — тактический план с шаблонами, чек-листами, email-цепочками, постами в соцсети и метриками для отслеживания.
+>
+> **Когда использовать:** Перед запуском нового продукта, услуги или большой фичи — когда нужен пошаговый план на 4–8 недель, чтобы ничего не упустить и не «слить» запуск.
+
 ## Skill Purpose
 Generate a complete, week-by-week launch playbook for any product, service, or feature launch. This skill produces a tactical plan with templates, checklists, email sequences, social posts, and metrics tracking -- everything needed to execute a successful launch.
 

@@ -1,6 +1,8 @@
 ---
 name: graphify
 description: any input (code, docs, papers, images) → knowledge graph → clustered communities → HTML + JSON + audit report
+описание_ru: Из любой папки с файлами (код, документация, статьи, картинки) строит граф знаний с кластерами сообществ и выдаёт интерактивный HTML, JSON для GraphRAG и отчёт-аудит.
+когда_использовать_ru: Когда нужно визуализировать связи в большом массиве материалов, подготовить базу для GraphRAG или быстро понять структуру незнакомого репозитория/корпуса документов.
 trigger: /graphify
 ---
 

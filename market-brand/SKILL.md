@@ -1,5 +1,9 @@
 # Brand Voice Analysis and Guidelines Generation
 
+> **Описание:** Анализирует голос бренда (tone of voice) по всем доступным каналам и формирует гайдлайн с конкретными правилами, чтобы любой копирайтер или маркетолог писал в едином стиле.
+>
+> **Когда использовать:** Когда выстраиваешь tone of voice бренда, готовишь brand-guidelines для команды/фрилансеров или сверяешь свой стиль с конкурентами — `/market brand <url>`.
+
 ## Skill Purpose
 Analyze a brand's voice, tone, and messaging across all available channels and generate a comprehensive brand voice guidelines document. This skill examines how a brand communicates, identifies patterns and inconsistencies, and produces actionable guidelines that any writer or marketer can follow to maintain brand consistency.
 

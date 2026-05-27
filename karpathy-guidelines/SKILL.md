@@ -1,6 +1,8 @@
 ---
 name: karpathy-guidelines
 description: Behavioral guidelines to reduce common LLM coding mistakes. Use when writing, reviewing, or refactoring code to avoid overcomplication, make surgical changes, surface assumptions, and define verifiable success criteria.
+описание_ru: Набор правил поведения для ИИ при работе с кодом — против лишних усложнений, в пользу точечных правок, явных допущений и проверяемых критериев готовности.
+когда_использовать_ru: Когда пишешь, ревьюишь или рефакторишь код и хочешь, чтобы модель не лила воду, не плодила лишнюю абстракцию и держалась узких рамок задачи.
 license: MIT
 ---
 

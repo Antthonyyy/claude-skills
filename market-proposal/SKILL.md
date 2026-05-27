@@ -1,5 +1,9 @@
 # Client Proposal Generator for Marketing Services
 
+> **Описание:** Генератор клиентских коммерческих предложений по маркетинговым услугам — с позиционированием агентства, тарифной сеткой (анкер + опции) и ROI-обоснованием инвестиций.
+>
+> **Когда использовать:** Когда нужно отправить предложение клиенту по SMM, рекламе, аудиту или другим маркетинговым услугам и продать дороже, чем «прайс-лист по часам».
+
 ## Skill Purpose
 Generate a professional, client-ready marketing services proposal. This skill produces a complete proposal document that positions the agency/consultant as the clear choice, frames pricing with anchoring and tiered options, and includes ROI projections to justify the investment.
 

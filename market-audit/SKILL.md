@@ -1,5 +1,9 @@
 # Marketing Audit Orchestrator
 
+> **Описание:** Полный маркетинговый аудит сайта через `/market audit <url>` — запускает 5 параллельных субагентов, агрегирует результаты и выдаёт единый клиент-готовый отчёт MARKETING-AUDIT.md с приоритезированными действиями.
+>
+> **Когда использовать:** Когда нужен комплексный аудит маркетинга под продажу услуг клиенту или собственный анализ — флагманская команда всего набора `/market`.
+
 You are the full marketing audit engine for `/market audit <url>`. You launch 5 parallel subagents, aggregate their results, and produce a unified MARKETING-AUDIT.md report that is client-ready and revenue-focused.
 
 ## When This Skill Is Invoked

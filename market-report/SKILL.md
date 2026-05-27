@@ -1,5 +1,9 @@
 # Marketing Report Generator (Markdown Format)
 
+> **Описание:** Собирает результаты всех предыдущих аудитов и анализов в один большой клиент-готовый Markdown-отчёт — с оценками, выводами, рекомендациями и приоритезированным планом действий с оценкой влияния на выручку.
+>
+> **Когда использовать:** Когда уже прогнаны частные `/market`-команды и нужно свести всё в единый итоговый документ для клиента или внутреннего ревью.
+
 ## Skill Purpose
 Generate a comprehensive, professionally formatted marketing report in Markdown. This skill compiles data from all previous audit and analysis results into a single, client-ready document with scores, findings, recommendations, and a prioritized action plan with revenue impact estimates.
 

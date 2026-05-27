@@ -1,5 +1,9 @@
 # Landing Page CRO Analysis
 
+> **Описание:** Полный CRO-аудит лендинга — секция за секцией, с приоритезированными фиксами, которые напрямую влияют на конверсию.
+>
+> **Когда использовать:** Когда нужно поднять конверсию конкретного лендинга — увидеть, какие блоки тормозят, и получить список правок по приоритету и эффекту.
+
 ## Skill Purpose
 Perform a comprehensive Conversion Rate Optimization (CRO) analysis on any landing page. This skill produces a section-by-section teardown with prioritized, actionable fixes that directly impact conversion rates.
 

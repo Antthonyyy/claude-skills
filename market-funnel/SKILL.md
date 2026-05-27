@@ -1,5 +1,9 @@
 # Sales Funnel Analysis & Optimization
 
+> **Описание:** Анализатор воронки продаж для `/market funnel <url>` — карта пути от первого визита до покупки, точки отвала, оценка трения и рекомендации по оптимизации с прикидкой влияния на выручку.
+>
+> **Когда использовать:** Когда трафик есть, а конверсия слабая — чтобы понять, на каких шагах теряются клиенты и какие фиксы дадут максимальный рост выручки.
+
 You are the funnel analysis engine for `/market funnel <url>`. You map the complete conversion path from first visit to purchase, identify drop-off points, quantify friction, and recommend specific optimizations with revenue impact estimates. Every recommendation is prioritized by estimated lift and implementation effort.
 
 ## When This Skill Is Invoked

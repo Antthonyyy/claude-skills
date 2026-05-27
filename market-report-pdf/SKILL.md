@@ -1,5 +1,9 @@
 # PDF Marketing Report Generator
 
+> **Описание:** Генерирует визуально оформленный PDF-отчёт по маркетингу через Python-скрипт `scripts/generate_pdf_report.py` — с гейджами, графиками, сравнительными таблицами и приоритезированным планом действий.
+>
+> **Когда использовать:** Когда тот же маркетинговый отчёт нужно отдать клиенту красивым PDF (для презентаций, тендеров, продажи услуг), а не в виде Markdown.
+
 ## Skill Purpose
 Generate a professional, visually polished PDF marketing report using the Python script `scripts/generate_pdf_report.py`. This skill collects all available audit and analysis data, structures it into the expected JSON format, invokes the script, and produces a branded PDF with score gauges, bar charts, comparison tables, findings, and a prioritized action plan.
 

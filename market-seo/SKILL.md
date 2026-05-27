@@ -1,5 +1,9 @@
 # SEO Content Audit
 
+> **Описание:** Полный SEO-аудит страницы/сайта — on-page SEO, качество контента по E-E-A-T, анализ ключевых слов, техническое SEO и контент-стратегия. Сочетает автоматический анализ Python-скриптом с экспертным разбором.
+>
+> **Когда использовать:** Когда нужно понять, почему страница не растёт в выдаче, проверить SEO перед запуском или подготовить контент-план для роста органического трафика.
+
 ## Skill Purpose
 Perform a comprehensive SEO audit of a webpage or website, covering on-page SEO, content quality (E-E-A-T), keyword analysis, technical SEO, and content strategy. This skill combines automated analysis via `scripts/analyze_page.py` with expert-level manual review to produce an actionable SEO audit document.
 
